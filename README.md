@@ -1,2 +1,2 @@
 # Competitor
-Competitor: BitTube | Airtime https://twitter.com/bittubeapp, https://bittube.cash/
+Competitor: BitTube | Airtime https://bittube.app/, https://twitter.com/bittubeapp; https://bittube.cash/
